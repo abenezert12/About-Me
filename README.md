@@ -66,6 +66,14 @@ GitHub · VS Code · Postman · Vercel · Railway
 
 ---
 
+## 📊 GitHub Stats
+
+![Abenezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=abenezert12&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abenezert12&layout=compact&theme=radical)
+
+---
+
 ## 🎨 React + Motion Example
 
 This section shows the exact React component pattern I use to deliver polished motion-driven UI.
@@ -133,5 +141,6 @@ If you're building something ambitious or need a motion-driven React interface, 
 ---
 
 © 2026 Abenezer Tekalign Demeke
+
 
 

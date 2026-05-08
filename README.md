@@ -92,14 +92,6 @@ Full Stack Developer specializing in React, Next.js, and scalable web applicatio
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abenezert12&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abenezert12&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 🤝 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abenezertekalign12@gmail.com)
